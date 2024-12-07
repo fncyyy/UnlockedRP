@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Unlocked RP",
+    "description": "",
+    "home_page_url": "https://fncyyy.github.io/UnlockedRP",
+    "feed_url": "https://fncyyy.github.io/UnlockedRP/feed.json",
+    "user_comment": "",
+    "icon": "https://fncyyy.github.io/UnlockedRP/media/website/transparent-white.png",
+    "author": {
+        "name": "fncyy"
+    },
+    "items": [
+    ]
+}
