@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\tomin\Documents\Publii\sites\unlocked-rp\preview/sitemap.xml
