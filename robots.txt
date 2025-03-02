@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://fncyyy.github.io/UnlockedRP/sitemap.xml
+Sitemap: https://unlockedrp.cc/sitemap.xml
